@@ -25,3 +25,11 @@ Uses Dlib's 68-point model to identify:
 
 3.Smile Detection:
 Smiling increases lip width relative to jaw width. The threshold of 0.3 was determined through empirical testing on sample videos to optimize detection accuracy.
+
+Key Advantages:
+
+- Normalizes for face size using jaw width
+
+- Real-time performance through simple geometric calculations
+
+- Robust to minor head rotations due to ratio-based approach
