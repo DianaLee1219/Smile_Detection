@@ -4,7 +4,7 @@
 
 ## Smile Detection using Dlib's facial landmarks model
 
-Let's detect the people's smile using Dlib's facial landmarks model.
+Let's detect the people smiling (smile.mp4) using Dlib's facial landmarks model.
 
 ## How it works?
 
